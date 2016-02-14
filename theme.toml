@@ -1,0 +1,12 @@
+name = "Robust"
+license = "MIT"
+licenselink = "https://github.com/make254/make254-theme/license.md"
+description = "make254 theme"
+tags = ["blog"]
+features = ["blog"]
+min_version = 0.15
+
+[author]
+    name = "Erik Kaareng-Sunde"
+    homepage = "moowork.com/erik"
+
